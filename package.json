@@ -1,0 +1,11 @@
+{
+  "name": "santiago",
+  "version": "1.0.0",
+  "description": "proyecto del curso de Backend Coderhouse",
+  "main": "ProductManager.js",
+  "scripts": {
+    "test": "test ProductManager"
+  },
+  "author": "Santiago Lombardi",
+  "license": "ISC"
+}
